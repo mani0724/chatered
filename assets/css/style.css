@@ -5830,4 +5830,13 @@ Go To Top Style
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
+
+
+
+.whatsapp_float{
+  position: fixed;
+  bottom:110px;
+  right:20px;
+  border-radius: 50%;
+}
 /*# sourceMappingURL=style.css.map */
